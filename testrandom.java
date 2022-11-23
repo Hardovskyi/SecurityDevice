@@ -76,7 +76,7 @@ public class testrandom {
 	public static void main(String[] args) {
 		testrandom test = new testrandom();
 		test.guess();
-		//System.out.println(test.average(5));//uncomment and type a digit for average(x) if you want to know min max and average for x tries
+		System.out.println(test.average(20));
 	}
 	
 	

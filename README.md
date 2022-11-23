@@ -19,9 +19,11 @@ First, java has to be installed.
 
 Second, git clone the repository ``
 
-Third, compile the code ``
+Third, compile the code `javac SecurityDevice.java`
 
-And finally, run the programm ``
+And finally, run the programm `java SecurityDevice`
 
-**Who do I talk to?**
+**Type in digits one by one pressing enter in order to try to lock or unlock the device.** 
+
+# Who do I talk to?
 Email dskvyrskyi@hawk.iit.edu

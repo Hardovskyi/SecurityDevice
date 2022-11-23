@@ -17,7 +17,7 @@ Written in Java on Windows 11.
 
 First, java has to be installed. 
 
-Second, git clone the repository ``
+Second, git clone the repository `git clone https://github.com/Hardovskyi/SecurityDevice.git`
 
 Third, compile the code `javac SecurityDevice.java`
 

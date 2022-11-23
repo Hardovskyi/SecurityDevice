@@ -18,9 +18,9 @@ public class testrandom {
 			user.input(random);
 			count++;
 			if(user.output().equals("Unlock")) {
-				System.out.println(user.output());
-				System.out.println("Numbers inputed: "+count);
-		}
+				System.out.println(user.output()+"ed");
+				System.out.println("Numbers inputed to unlock: "+count);
+			}
 		}
 		return count;//number of digits generated
 	}

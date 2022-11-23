@@ -11,5 +11,7 @@ Written in Java on Windows 11.
 **Unlock code: 896471;**
      **Lock code: 896474**
 
+2.`filename` guesses the unlock code inputing random digits from 0 to 9 and outputs the number of digits has been generated before the lock was unlocked. Also it performs another test when `` guesses the unlock code for 50 times and finds the min, max and average of number of digits has been generated to unlock the lock.
+
 # Getting Started
 

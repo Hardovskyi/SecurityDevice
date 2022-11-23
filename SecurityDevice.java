@@ -118,15 +118,3 @@ public static int unlockState=6, lockState=7, currentState=0;
 	}
 	
 }
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-
-	

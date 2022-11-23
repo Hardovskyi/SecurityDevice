@@ -77,10 +77,5 @@ public class testrandom {
 		testrandom test = new testrandom();
 		test.guess();
 		System.out.println(test.average(20));
-	}
-	
-	
-	
-	
-	
+	}	
 }

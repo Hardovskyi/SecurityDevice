@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+import SecurityDevice;
 public class Aplication {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);

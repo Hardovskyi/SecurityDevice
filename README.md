@@ -15,5 +15,13 @@ Written in Java on Windows 11.
 
 # Getting Started
 
+First, java has to be installed. 
+
+Second, git clone the repository ``
+
+Third, compile the code ``
+
+And finally, run the programm ``
+
 **Who do I talk to?**
 Email dskvyrskyi@hawk.iit.edu

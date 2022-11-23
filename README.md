@@ -15,3 +15,5 @@ Written in Java on Windows 11.
 
 # Getting Started
 
+**Who do I talk to?**
+Email dskvyrskyi@hawk.iit.edu

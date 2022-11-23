@@ -69,7 +69,7 @@ public static int unlockState=6, lockState=7, currentState=0;
 				setCurrentState(0);
 			}
 		}
-		else if(getCurrentState()==5) {//got to state 6 or 7, num:896471 or 896474
+		else if(getCurrentState()==5) {//go to state 6 or 7, num:896471 or 896474
 			if(num==1) {
 				setCurrentState(6);
 			}

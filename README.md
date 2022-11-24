@@ -15,9 +15,11 @@ Written in Java on Windows 11.
 
 # Getting Started
 
-First, java has to be installed. 
+First, java has to be installed. It can be done here: https://www.oracle.com/java/technologies/downloads/#jdk19-windows
 
-Second, git clone the repository `git clone https://github.com/Hardovskyi/SecurityDevice.git`
+Second, git clone the repository: 
+
+```git clone https://github.com/Hardovskyi/SecurityDevice.git```
 
 Third, compile the code `javac SecurityDevice.java`
 

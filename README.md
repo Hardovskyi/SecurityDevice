@@ -29,8 +29,9 @@ And finally, run the programm
 
 `java SecurityDevice`
 
-In oerder to run `testrandom.java` you perform the same steps. 
 **Type in digits one by one pressing enter in order to try to lock or unlock the device.** 
+
+In order to run `testrandom.java` you perform the same steps. 
 
 # Who do I talk to?
 Email dskvyrskyi@hawk.iit.edu

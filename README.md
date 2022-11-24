@@ -21,7 +21,11 @@ Second, git clone the repository:
 
 ```git clone https://github.com/Hardovskyi/SecurityDevice.git```
 
-Third, compile the code 
+Third, cd the file:
+
+`cd SecurityDevice`
+
+Forth, compile the code 
 
 `javac SecurityDevice.java`
 
@@ -31,7 +35,7 @@ And finally, run the programm
 
 **Type in digits one by one pressing enter in order to try to lock or unlock the device.** 
 
-In order to run `testrandom.java` you perform the same steps. 
+In order to run `testrandom.java` you perform the same steps. `javac testrandom.java` & `java SecurityDevice` .
 
 # Who do I talk to?
 Email dskvyrskyi@hawk.iit.edu

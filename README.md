@@ -21,10 +21,15 @@ Second, git clone the repository:
 
 ```git clone https://github.com/Hardovskyi/SecurityDevice.git```
 
-Third, compile the code `javac SecurityDevice.java`
+Third, compile the code 
 
-And finally, run the programm `java SecurityDevice`
+`javac SecurityDevice.java`
 
+And finally, run the programm 
+
+`java SecurityDevice`
+
+In oerder to run `` you perform the same steps. 
 **Type in digits one by one pressing enter in order to try to lock or unlock the device.** 
 
 # Who do I talk to?
